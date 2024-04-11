@@ -4,6 +4,9 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdbsry1010)](https://solved.ac/tjdbsry1010)
 
+language
+C C++ JAVA PYTHON 
+
 <!--
 **traincube0322/traincube0322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
