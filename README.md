@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-![traincube0322s GitHub stats](https://github-readme-stats.vercel.app/api?username=traincube0322&show_icons=true&theme=dark)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tjdbsry1010)](https://solved.ac/tjdbsry1010)
+<br>
+![traincube0322s GitHub stats](https://github-readme-stats.vercel.app/api?username=traincube0322&show_icons=true&theme=dark)
 
 <h4>language</h4>
 
